@@ -1,7 +1,7 @@
 /*
- * Blogger Shortcode Plugin By NCERT ABHYAS
- * Examples and documentation at: NCERT ABHYAS
- * Copyright (c) 2008-2015 NCERT ABHYAS
+ * Blogger Shortcode Plugin By Mohammad Mustafa Ahmedzai
+ * Examples and documentation at: http://www.MyBloggerTricks.com
+ * Copyright (c) 2008-2015 STCnetwork.org
  * Version: 2.0 (29-March-2015)
  * Dual licensed under the MIT and GPL licenses.
  * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
